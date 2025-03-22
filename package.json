@@ -1,0 +1,14 @@
+{
+  "name": "auth-solid-system",
+  "version": "1.0.0",
+  "description": "Make authentication with S.O.L.I.D Principle",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akbar Hasbullah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
