@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1742985934826" clover="3.2.0">
+  <project timestamp="1742985934826" name="All files">
+    <metrics statements="18" coveredstatements="12" conditionals="9" coveredconditionals="6" methods="9" coveredmethods="3" elements="36" coveredelements="21" complexity="0" loc="18" ncloc="18" packages="3" files="5" classes="5"/>
+    <package name="config">
+      <metrics statements="5" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="0"/>
+      <file name="BcryptConfig.mjs" path="D:\Programming\Auth-solid-system\src\config\BcryptConfig.mjs">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+      <file name="jwtConfig.mjs" path="D:\Programming\Auth-solid-system\src\config\jwtConfig.mjs">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="8" count="0" type="stmt"/>
+      </file>
+      <file name="prisma.mjs" path="D:\Programming\Auth-solid-system\src\config\prisma.mjs">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="2" count="1" type="stmt"/>
+      </file>
+    </package>
+    <package name="repositories.auth">
+      <metrics statements="2" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="UserRepository.mjs" path="D:\Programming\Auth-solid-system\src\repositories\auth\UserRepository.mjs">
+        <metrics statements="2" coveredstatements="0" conditionals="2" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="5" count="0" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="services.auth">
+      <metrics statements="11" coveredstatements="11" conditionals="7" coveredconditionals="6" methods="3" coveredmethods="3"/>
+      <file name="AuthServices.mjs" path="D:\Programming\Auth-solid-system\src\services\auth\AuthServices.mjs">
+        <metrics statements="11" coveredstatements="11" conditionals="7" coveredconditionals="6" methods="3" coveredmethods="3"/>
+        <line num="9" count="5" type="stmt"/>
+        <line num="12" count="2" type="stmt"/>
+        <line num="13" count="2" type="cond" truecount="2" falsecount="0"/>
+        <line num="14" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+        <line num="17" count="1" type="stmt"/>
+        <line num="21" count="3" type="stmt"/>
+        <line num="23" count="3" type="cond" truecount="4" falsecount="0"/>
+        <line num="24" count="2" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
